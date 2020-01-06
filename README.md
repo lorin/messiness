@@ -18,11 +18,11 @@ The *wicked problems* paper.
 
 [The Reflective Practitioner: How Professionals Think In Action](https://www.amazon.com/Reflective-Practitioner-Professionals-Think-Action/dp/0465068782) by Donald A. Schön (book, 1984)
 
-[The Mathematical Disposition of Structural Engineers](https://www.jstor.org/stable/30034962) by Julie Gainsburg (paper, 2007)
-
 [The Archetypes of Human Work: 1. The Messy Reality](https://humanisticsystems.com/2017/01/13/the-archetypes-of-human-work/) by Steven Shorrock (blog, 2017)
 
-[The Messy Details: Insights From the Study of Technical Work in Healthcare](https://ieeexplore.ieee.org/document/1344116) by Christopher P. Nemeth, Richard I. Cook and David D. Woods (journal, 2004)
+[The Messy Details: Insights From the Study of Technical Work in Healthcare](https://ieeexplore.ieee.org/document/1344116) by Christopher P. Nemeth, Richard I. Cook and David D. Woods (paper, 2004)
+
+[The Mathematical Disposition of Structural Engineers](https://www.jstor.org/stable/30034962) by Julie Gainsburg (paper, 2007)
 
 ## The dangers of imposing neat solutions on a messy world
 
