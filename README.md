@@ -5,7 +5,7 @@ Reality is a messy place.
 
 ## The messy nature of problems
 
-[The Future of Operational Research is Past](https://ackoffcenter.blogs.com/files/the-future-of-operational-research-is-past.pdf) by Russell Ackoff (paper,1979). 
+[The Future of Operational Research is Past](https://ackoffcenter.blogs.com/files/the-future-of-operational-research-is-past.pdf) by Russell Ackoff (paper, 1979). 
 
 > Managers are not confronted with problems that are independent of each other, but with dynamic situations that consist of complex systems of changing problems that interact with each other. I call such situations messes.
 
