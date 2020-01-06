@@ -34,6 +34,8 @@ Nemeth, Richard I. Cook and David D. Woods (journal issue, 2004)
 
 [A City Is Not A Tree](https://www.patternlanguage.com/archive/cityisnotatree.html) by Christopher Alexander (paper, 1965)
 
+[The Systems Bible: The Beginner's Guide to Systems Large and Small](https://www.amazon.com/Systems-Bible-Beginners-Guide-Large/dp/0961825170/) (originally published as *Systemantics*) by John Gall (book, 1975)
+
 ## Modeling messy data
 
 [Data and Reality: A Timeless Perspective on Perceiving and Managing information in Our Imprecise World](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information-ebook/dp/B0086WGJ7W) by William Kent (book, 1978). Get the second edition if you can find it.
