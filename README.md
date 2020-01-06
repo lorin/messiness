@@ -18,7 +18,7 @@ The *wicked problems* paper.
 
 [The Reflective Practitioner: How Professionals Think In Action](https://www.amazon.com/Reflective-Practitioner-Professionals-Think-Action/dp/0465068782) by Donald A. Schön (book, 1984)
 
-[The Archetypes of Human Work: 1. The Messy Reality](https://humanisticsystems.com/2017/01/13/the-archetypes-of-human-work/) by Steven Shorrock (blog, 2017)
+[The Archetypes of Human Work: 1. The Messy Reality](https://humanisticsystems.com/2017/01/13/the-archetypes-of-human-work/) by Steven Shorrock (blog post, 2017)
 
 [The Messy Details: Insights From the Study of Technical Work in
 Healthcare](https://ieeexplore.ieee.org/document/1344116) by Christopher P.
@@ -42,10 +42,10 @@ Nemeth, Richard I. Cook and David D. Woods (journal issue, 2004)
 
 [Metacrap: Putting the Torch to Seven Straw-men of the Meta-utopia](https://people.well.com/user/doctorow/metacrap.htm) by Cory Doctorow (online, 2001)
 
-[Falsehoods programmers believe about names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) by Patrick McKenzie (online, 2010)
+[Falsehoods programmers believe about names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) by Patrick McKenzie (blog post, 2010)
 
 [Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
-by Noah Sussman (online, ?)
+by Noah Sussman (blog post, ?)
 
 
 ## Science is messier than you think
