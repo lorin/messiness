@@ -52,6 +52,8 @@ by Noah Sussman (blog post, ?)
 
 ## Science is messier than you think
 
+[Data file for the Frink programming language](https://frinklang.org/frinkdata/units.txt) is a treasure trove of information on the messiness of units.
+
 [The Dappled World: A Study of the Boundaries of Science](https://www.amazon.com/Dappled-World-Study-Boundaries-Science/dp/0521644119) by Nancy Cartwright (book, 1999)
 
 
