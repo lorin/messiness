@@ -3,7 +3,7 @@
 Reality is a messy place.
 
 
-## The messy nature of problems
+## The messy nature of problems and problem-solving
 
 [The Future of Operational Research is Past](https://ackoffcenter.blogs.com/files/the-future-of-operational-research-is-past.pdf) by Russell Ackoff (paper, 1979). 
 
@@ -12,6 +12,8 @@ Reality is a messy place.
 [Dilemmas in a General Theory of Planning](https://link.springer.com/article/10.1007/BF01405730) by Horst W.J. Rittel and Melvin M. Webber (paper, 1973).
 
 The *wicked problems* paper.
+
+[The science of "muddling through"](https://faculty.washington.edu/mccurdy/SciencePolicy/Lindblom%20Muddling%20Through.pdf) by Charles E. Lindblom (paper, 1959)
 
 
 ## The messy nature of professional work
