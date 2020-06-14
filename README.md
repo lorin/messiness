@@ -42,6 +42,9 @@ Nemeth, Richard I. Cook and David D. Woods (journal issue, 2004)
 
 [Data and Reality: A Timeless Perspective on Perceiving and Managing information in Our Imprecise World](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information-ebook/dp/B0086WGJ7W) by William Kent (book, 1978). Get the second edition if you can find it.
 
+[Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
+by Allison Parrish (talk & essay, 2016)
+
 [Everything Is Miscellaneous: The Power of the New Digital Disorder](https://www.amazon.com/dp/B000R7PUW4) by David Weinberger (book, 2007).
 
 [Metacrap: Putting the Torch to Seven Straw-men of the Meta-utopia](https://people.well.com/user/doctorow/metacrap.htm) by Cory Doctorow (online, 2001)
