@@ -28,6 +28,8 @@ Nemeth, Richard I. Cook and David D. Woods (journal issue, 2004)
 
 [The Mathematical Disposition of Structural Engineers](https://www.jstor.org/stable/30034962) by Julie Gainsburg (paper, 2007)
 
+[Flexible Sketches and Inflexible Data Bases: Visual Communication, Conscription Devices, and Boundary Objects in Design Engineering](https://doi.org/10.1177/016224399101600402) by Kathryn Henderson (paper, 1991)
+
 ## The dangers of imposing neat solutions on a messy world
 
 [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.amazon.com/dp/B00D8JJYWA/) by James C. Scott (book, 1998)
@@ -37,6 +39,8 @@ Nemeth, Richard I. Cook and David D. Woods (journal issue, 2004)
 [A City Is Not A Tree](https://www.patternlanguage.com/archive/cityisnotatree.html) by Christopher Alexander (paper, 1965)
 
 [The Systems Bible: The Beginner's Guide to Systems Large and Small](https://www.amazon.com/Systems-Bible-Beginners-Guide-Large/dp/0961825170/) (originally published as *Systemantics*) by John Gall (book, 1975)
+
+[The Death and Life Of Great American Cities](https://www.amazon.com/Death-Life-Great-American-Cities/dp/067974195X) by Jane Jacobs (book, 1961)
 
 ## Modeling messy data
 
