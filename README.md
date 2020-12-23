@@ -30,6 +30,8 @@ Nemeth, Richard I. Cook and David D. Woods (journal issue, 2004)
 
 [Flexible Sketches and Inflexible Data Bases: Visual Communication, Conscription Devices, and Boundary Objects in Design Engineering](https://doi.org/10.1177/016224399101600402) by Kathryn Henderson (paper, 1991)
 
+[On Line and On Paper: Visual Representations, Visual Culture, and Computer Graphics in Design Engineering](https://mitpress.mit.edu/books/line-and-paper) by Kathryn Henderson (book, 1999)
+
 ## The dangers of imposing neat solutions on a messy world
 
 [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.amazon.com/dp/B00D8JJYWA/) by James C. Scott (book, 1998)
@@ -64,7 +66,6 @@ by Noah Sussman (blog post, ?)
 [Data file for the Frink programming language](https://frinklang.org/frinkdata/units.txt) is a treasure trove of information on the messiness of units.
 
 [The Dappled World: A Study of the Boundaries of Science](https://www.amazon.com/Dappled-World-Study-Boundaries-Science/dp/0521644119) by Nancy Cartwright (book, 1999)
-
 
 [The Disorder of Things: Metaphysical Foundations of the Disunity of Science](https://www.amazon.com/Disorder-Things-Metaphysical-Foundations-Disunity/dp/0674212614) by John Dupré (book, 1995)
 
