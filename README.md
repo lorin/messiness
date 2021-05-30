@@ -34,6 +34,8 @@ Nemeth, Richard I. Cook and David D. Woods (journal issue, 2004)
 
 [Designing Engineers](https://mitpress.mit.edu/books/designing-engineers) by Louis Bucciarelli (book, 1996)
 
+[Engineering and the Mind's Eye](https://mitpress.mit.edu/books/engineering-and-minds-eye) by Eugene Ferguson (book, 1992)
+
 ## The dangers of imposing neat solutions on a messy world
 
 [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.amazon.com/dp/B00D8JJYWA/) by James C. Scott (book, 1998)
