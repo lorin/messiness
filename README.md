@@ -36,6 +36,8 @@ Nemeth, Richard I. Cook and David D. Woods (journal issue, 2004)
 
 [Engineering and the Mind's Eye](https://mitpress.mit.edu/books/engineering-and-minds-eye) by Eugene Ferguson (book, 1992)
 
+[The Design of Design: Essays from a Commputer Scientist](https://bookshop.org/books/the-design-of-design-essays-from-a-computer-scientist/9780201362985) by Fred Brooks Jr.
+
 ## The dangers of imposing neat solutions on a messy world
 
 [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.amazon.com/dp/B00D8JJYWA/) by James C. Scott (book, 1998)
