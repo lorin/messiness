@@ -80,3 +80,7 @@ by Noah Sussman (blog post, ?)
 [Can mechanistic explanation be reconciled with free-scale constitution and dynamics?](https://www.sciencedirect.com/science/article/pii/S136984861500059X) by William Bechtel (paper, 2015)
 
 [Categorizing the Mental](https://academic.oup.com/pq/article-abstract/66/265/745/2223237) by Eric Hochstein (paper, 2016)
+
+[A Generalized Patchwork Approach to Scientific Concepts](https://doi.org/10.1086/716179) by Phillipp Haueis (paper, 2021)
+
+[Inventing Temperature: Measurement and Scientific Progress](https://bookshop.org/books/inventing-temperature-measurement-and-scientific-progress-9780195337389/9780195337389) by Hasok Chang (book, 2007)
